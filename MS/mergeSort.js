@@ -28,4 +28,4 @@ function merge(left, right) {
 
 }
 
-console.log = mergeSort([64, 34, 25, 12, 22, 11, 90]);
+console.log = mergeSort([64, 34, 25, 1, 54, 2, 22, 11, 90]);
